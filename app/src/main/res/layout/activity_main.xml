@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!&#10;Lathika"
+        android:text="Hello World!&#10;Lathika&#10;25MCAR0103"
         android:textSize="34sp"
         android:textStyle="bold"
         android:gravity="center"
