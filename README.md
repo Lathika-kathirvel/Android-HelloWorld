@@ -120,6 +120,31 @@ The application displays the following message:
 
 ---
 
+## Test Case 3
+
+**Test Case ID:** TC-03
+
+**Objective:** Verify that the application displays the student's name.
+
+**Input:** Modify the TextView to display the student's name.
+
+**Expected Result:**
+
+```
+Hello World!
+
+Lathika
+```
+
+**Actual Result:** Pass
+
+**Screenshot:**
+
+![Test Case 3](Screenshot/testcase3_name.png)
+
+---
+
+
 # Conclusion
 
 The experiment was successfully completed. A simple Android application was developed using Android Studio. The application demonstrates the use of an Activity and a TextView to display text on the screen.
