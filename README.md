@@ -140,7 +140,7 @@ Lathika
 
 **Screenshot:**
 
-![Test Case 3](Screenshot/testcase3_name.png)
+![Test Case 3](Screenshot/testcase3.png)
 
 ---
 
